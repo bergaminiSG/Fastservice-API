@@ -4,7 +4,8 @@ People
 
 `GET /people.json` will return all people on the account.
 
-```[
+```
+[
   {
     "id": 149087659,
     "identity_id": 982871737,
@@ -27,8 +28,8 @@ People
     "updated_at": "2012-03-22T16:56:48-05:00",
     "url": "https://basecamp.com/999999999/api/v1/people/1071630348-jeremy-kemper.json"
   }
-]```
-
+]
+```
 <h2>Get person
 
 <ul>
