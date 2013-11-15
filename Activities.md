@@ -6,7 +6,7 @@ Activities
 `GET /Activity.json` will receive an activity executed by a Fastservice user account. 
 
 This method il mainly used by outer back-end systems to receive back information of actvities executed. 
-For example: a customer post a ticket to a supplier, then he `GET Activity` of the Supplier back.
+For example: a customer post a ticket to a supplier, then he get the supplier's activity back.
 
 ```
     "TicketID": 149087659,
@@ -26,7 +26,7 @@ For example: a customer post a ticket to a supplier, then he `GET Activity` of t
 
 <h2> POST Activity
 
-`POST /Activity.json` will send an Activity to an Account.
+`POST /Activity.json` will send an activity to Fastservice. This method can be invoked by mobile workforce users to send back the activity done. informations   
 
 ```
     "TicketID": 149087659,
