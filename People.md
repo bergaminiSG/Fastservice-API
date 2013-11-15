@@ -1,6 +1,6 @@
-Fastservice-API
+People
 ===============
-<h1>Get people
+<h2>Get people
 
 `GET /people.json` will return all people on the account.
 
