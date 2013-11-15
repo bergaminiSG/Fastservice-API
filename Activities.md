@@ -1,12 +1,9 @@
 Activities
 ===============
 
-<h2> GET Activity
+<h2> GET Activities
 
-`GET /Activity.json` will receive an activity executed by a Fastservice user account. 
-
-This method il mainly used by outer back-end systems to receive back information of actvities executed. 
-For example: a customer post a ticket to a supplier, then he get the supplier's activity back.
+`GET /Activities.json` will return the activities executed by a Fastservice user account, from a specified date-time. 
 
 ```
     "TicketID": 149087659,
@@ -20,7 +17,7 @@ For example: a customer post a ticket to a supplier, then he get the supplier's 
     
     "created_at": "2013-11-22T16:56:48-05:00",
     "updated_at": "2013-11-22T16:56:48-05:00",
-    "url": "https://fs.centrocomputer.it/api/v1/Activities/Activity.json"
+    "url": "https://fs.centrocomputer.it/api/v1/Activities/Activities.json"
 ```
 
 
