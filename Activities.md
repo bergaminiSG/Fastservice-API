@@ -3,7 +3,7 @@ Activities
 
 <h2> GET Activities
 
-`GET /Activities.json` will return the activities executed by a Fastservice user account, from a specified date-time. 
+`GET /Activities.json` will return all the activities executed by a Fastservice user account, from a specified date-time. 
 
 ```
     "TicketID": 149087659,
@@ -23,7 +23,7 @@ Activities
 
 <h2> POST Activity
 
-`POST /Activity.json` will create an activity of a specified user account. 
+`POST /Activity.json` will create an activity for a specified user account. 
 
 ```
     "TicketID": 149087659,
