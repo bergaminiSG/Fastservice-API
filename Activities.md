@@ -26,7 +26,8 @@ For example: a customer post a ticket to a supplier, then he get the supplier's 
 
 <h2> POST Activity
 
-`POST /Activity.json` will send an activity to Fastservice. This method can be invoked by mobile workforce users to send back the activity done. informations   
+`POST /Activity.json` will send an activity to Fastservice. 
+This method can be invoked by mobile workforce users to send back the activity done.  
 
 ```
     "TicketID": 149087659,
