@@ -31,7 +31,7 @@ Tickets
 
 <h2> GET Ticket
 
-`GET /Ticket.json` will return the ticket detail assigned to e specified user.
+`GET /Ticket.json` will return the ticket detail of a specified ticket assigned to e specified user.
 
 ```
     "TicketID": 149087659,
