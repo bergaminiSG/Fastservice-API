@@ -23,8 +23,7 @@ Activities
 
 <h2> POST Activity
 
-`POST /Activity.json` will send an activity to Fastservice. 
-This method can be invoked by mobile workforce users to send back the activity done.  
+`POST /Activity.json` will create an activity of a specified user account. 
 
 ```
     "TicketID": 149087659,
