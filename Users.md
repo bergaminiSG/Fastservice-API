@@ -2,7 +2,7 @@ People
 ===============
 <h2>Get people
 
-`GET /people.json` will return all people on the account.
+`GET /Users.json` will return all people on the account.
 
 ```
 [
