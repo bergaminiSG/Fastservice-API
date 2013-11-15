@@ -1,4 +1,4 @@
-Activity
+Activities
 ===============
 
 <h2> POST Activity
