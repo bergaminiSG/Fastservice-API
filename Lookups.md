@@ -9,7 +9,7 @@ Lookups
 ```
 [
   {
-    "LookupID": 59,
+    "LookupID": 58,
     "Description": Hardware,
     "created_at": "2013-11-22T16:56:48-05:00",
     "updated_at": "2013-11-22T16:56:48-05:00",
