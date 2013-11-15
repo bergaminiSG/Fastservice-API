@@ -9,24 +9,24 @@ People
   {
     "id": 149087659,
     "identity_id": 982871737,
-    "name": "Jason Fried",
-    "email_address": "jason@37signals.com",
+    "name": "Mirco Angelini",
+    "email_address": "mirco.angelini@centrocomputer.it",
     "admin": true,
-    "avatar_url": "https://asset0.37img.com/global/4113d0a133a32931be8934e70b2ea21efeff72c1/avatar.96.gif",
-    "created_at": "2012-03-22T16:56:48-05:00",
-    "updated_at": "2012-03-22T16:56:48-05:00",
-    "url": "https://basecamp.com/999999999/api/v1/people/149087659-jason-fried.json"
+    "avatar_url": "https://fs.centrcomputer.it/images/mangelini.gif",
+    "created_at": "2013-11-22T16:56:48-05:00",
+    "updated_at": "2013-11-22T16:56:48-05:00",
+    "url": "https://fs.centrcomputer.it/api/v1/people/1071630348-mirco-angelini.json"
   },
   {
     "id": 1071630348,
     "identity_id": 827377171,
-    "name": "Jeremy Kemper",
-    "email_address": "jeremy@37signals.com",
+    "name": "Tommaso Vecchiattini",
+    "email_address": "tommaso.vecchiattini@centrocomputer.it",
     "admin": true,
-    "avatar_url": "https://asset0.37img.com/global/e68cafa694e8f22203eb36f13dccfefa9ac0acb2/avatar.96.gif",
-    "created_at": "2012-03-22T16:56:48-05:00",
-    "updated_at": "2012-03-22T16:56:48-05:00",
-    "url": "https://basecamp.com/999999999/api/v1/people/1071630348-jeremy-kemper.json"
+    "avatar_url": "https://fs.centrcomputer.it/images/tvecchiattini.gif",
+    "created_at": "2013-11-22T16:56:48-05:00",
+    "updated_at": "2013-11-22T16:56:48-05:00",
+    "url": "https://fs.centrcomputer.it/api/v1/people/1071630348-tommaso-vecchiattini.json"
   }
 ]
 ```
