@@ -2,7 +2,8 @@ Tickets
 ===============
 
 
-<h2>GET Tickets 
+<h2>GET Tickets
+
 `GET /Tickets.json` will show all the tickets assigned to e specified user.
 
 ```
@@ -29,6 +30,7 @@ Tickets
 ```
 
 <h2> GET Ticket
+
 `GET /Ticket.json` will show the ticket detail assigned to e specified user.
 
 ```
